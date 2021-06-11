@@ -44,6 +44,7 @@ ul.socials {
   justify-content: center;
   gap: 10px;
   margin-top: 2.2rem;
+  opacity: 0.3;
 }
 ul.socials li.social {
   list-style: none;
@@ -70,7 +71,7 @@ ul.socials li.social > a > img {
   left: 50%;
   transform: translateX(-50%);
   text-transform: uppercase;
-  color: rgba(255, 255, 255, 0.25);
+  color: rgba(255, 255, 255, 0.15);
   padding-bottom: 1rem;
 }
 
